@@ -2,7 +2,6 @@
 
 A production-grade URL shortener with real-time click analytics, Redis caching, rate limiting, and a React dashboard — built with a modern async Python backend and deployed live.
 
-**Live Demo:** [snapurl.vercel.app](https://snapurl.vercel.app) | **API Docs:** [snapurl-api.railway.app/api/docs](https://snapurl-api.railway.app/api/docs)
 
 ---
 
